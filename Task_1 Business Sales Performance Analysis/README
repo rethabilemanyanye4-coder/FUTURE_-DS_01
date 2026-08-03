@@ -1,1 +1,66 @@
+# 📊 Business Sales Performance Analysis
 
+## 📌 Project Overview
+This project was completed as part of my Data Science & Analytics Internship with Future Interns.
+
+The main purpose of this task was to examine business sales data, identify important trends and patterns, and develop insights that can support better business decisions and future growth.
+
+---
+
+## 🎯 Business Questions
+
+The analysis aimed to answer the following questions:
+
+1. Which products contribute the most to overall revenue?
+2. What trends can be observed in sales over time?
+3. Which regions or product categories have the strongest performance?
+4. Which areas should the business prioritize to achieve faster growth?
+
+---
+
+## 🛠️ Tools & Skills Used
+
+- Power BI – Dashboard creation and data visualization
+- Data cleaning and transformation
+- Sales data analysis
+- Business intelligence and insight generation
+
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+---
+
+## 📈 Key Findings
+
+- A small number of top-performing products account for a large share of the overall revenue.
+- Sales performance varies across regions, with some areas making a much stronger contribution to total sales.
+- The sales data reveals trends over time that can help identify potential opportunities for business growth.
+- Some product categories have weaker performance and may require further attention or improvement.
+
+---
+
+## 🚀 Recommendations
+
+Based on the findings, the business could:
+
+- Concentrate marketing activities on regions with strong sales potential.
+- Maintain sufficient stock levels for products with consistently high demand.
+- Review underperforming categories and identify ways to improve their performance.
+- Continue using data-driven insights to support future business and strategic decisions.
+
+---
+
+## 📁 Project Files
+
+- `sales_dashboard.pbix` – Interactive Power BI dashboard
+- `dashboard.png` – Image preview of the completed dashboard
+
+---
+
+## 👤 Author
+
+**Rethabile Manyanye**  
+Data Science & Analytics Intern
